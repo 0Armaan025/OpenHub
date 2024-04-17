@@ -1,6 +1,6 @@
 // users can sign up
 // users can create projects ( link their github repo ) with it, add their personal token with it to access all the settings and stuff
-// make a guide to let the users know how to create a token for thier account
+// make a guide to let the users know how to create a token for theirr account
 // users can have a descripotion for that project, each project will have own contributors names and profiles, and tags (optional)
 // for each project, users can have a board, where they can add tasks, and assign them to contributors, if contributors reject that, then they'll be assigned to someone else (AI), after they solve that certain task, and the pr is merged, they get some points or something ( supa points ) 
 //All issues made on the repo will be shown there, and all issues made on the console will be shown on the repo, issues can be closed too, the thingy will be shown bothwhere
@@ -9,3 +9,4 @@
 // profile pages -> basic details -> projects contributed to -> github profile -> supa points
 // search functionality to find projects
 // dashboard for everyone -> shows no of issues made -> shows repos contributed to (github) -> shows projects contributed to (openhub)
+
